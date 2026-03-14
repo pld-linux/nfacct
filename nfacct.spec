@@ -2,12 +2,12 @@ Summary:	Userspace netfilter accounting management utility
 Summary(pl.UTF-8):	Program przestrzeni użytkownika do zarządzania infrastrukturą rozliczania netfiltra
 Name:		nfacct
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Networking
-Source0:	http://www.netfilter.org/projects/nfacct/files/%{name}-%{version}.tar.bz2
+Source0:	https://www.netfilter.org/projects/nfacct/files/%{name}-%{version}.tar.bz2
 # Source0-md5:	94faafdaaed85ca9220c5692be8a408e
-URL:		http://www.netfilter.org/projects/nfacct/
+URL:		https://www.netfilter.org/projects/nfacct/
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake >= 1.6
 BuildRequires:	libmnl-devel >= 1.0.0
